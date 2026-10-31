@@ -1,0 +1,4 @@
+- insert:
+    - id: favorability
+      name: 'dsh-plugin-favorability'
+      config: {}

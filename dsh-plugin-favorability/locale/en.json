@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Favorability",
+    "description": "Gives the model a private first-person favorability that grows or fades with the conversation and colors its tone. Includes a live score badge by the composer."
+  }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Favorability">
+  <defs>
+    <linearGradient id="favorability-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a2f3c"/>
+      <stop offset="1" stop-color="#171b24"/>
+    </linearGradient>
+    <linearGradient id="favorability-heart" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8a9a"/>
+      <stop offset="1" stop-color="#e2475f"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#favorability-bg)"/>
+  <path d="M32 50.5C20.3 41.4 13 34.3 13 26.3 13 19.8 18.1 15 24.2 15c3.5 0 6.4 1.6 7.8 4.1C33.4 16.6 36.3 15 39.8 15 45.9 15 51 19.8 51 26.3c0 8-7.3 15.1-19 24.2Z" fill="url(#favorability-heart)"/>
+  <path d="M20 43.5c1.1-2.6 2.9-4.8 5.2-6.5" fill="none" stroke="#ffd7dd" stroke-width="2.6" stroke-linecap="round" opacity=".85"/>
+</svg>
